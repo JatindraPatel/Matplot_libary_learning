@@ -1,0 +1,23 @@
+Matplotlib :-
+
+
+
+Matplotlib is a powerful Python library used to create data visualizations such as charts, graphs, and plots.
+
+It helps to represent data visually, making it easier to understand trends, patterns, and relationships.
+
+The main module used for plotting is matplotlib.pyplot, usually imported as plt.
+
+Matplotlib works like a drawing tool, where you can draw lines, bars, circles, and shapes to represent data.
+
+It is commonly used with NumPy, Pandas, and SciPy for data analysis and scientific computing.
+
+It allows creation of both 2D and basic 3D plots.
+
+Charts can be customized easily — you can change colors, labels, titles, legends, gridlines, and much more.
+
+It can save plots in different file formats like .png, .jpg, .pdf, .svg, etc.
+
+Matplotlib is often used in data science, machine learning, and AI projects to display results.
+
+It is open-source and free to use for everyone.
